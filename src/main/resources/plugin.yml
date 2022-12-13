@@ -1,0 +1,10 @@
+name: Cinematics
+version: '${project.version}'
+main: me.thejokerdev.cinematics.Main
+api-version: 1.19
+authors: [ TheJokerDev ]
+description: Spigot plugin for cinematics mod
+
+commands:
+  cinematic:
+    aliases: [c, cin]
